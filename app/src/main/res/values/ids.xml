@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="color" type="id"></item>
+    <item name="codescan" type="id"></item>
+    <item name="currency" type="id"></item>
+    <item name="readtext" type="id"></item>
+    <item name="scanobject" type="id"></item>
+</resources>

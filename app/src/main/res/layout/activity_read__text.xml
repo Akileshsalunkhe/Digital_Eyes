@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="8dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <SurfaceView
+        android:id="@+id/surface_View"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <TextView
+        android:textSize="24sp"
+        android:textColor="@color/white"
+        android:gravity="bottom"
+        android:fontFamily="sans-serif-condensed"
+
+        android:layout_marginLeft="10dp"
+        android:id="@+id/text_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="No Text"
+        android:layout_alignParentBottom="true"/>
+</RelativeLayout>
